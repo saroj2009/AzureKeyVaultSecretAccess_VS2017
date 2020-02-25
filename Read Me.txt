@@ -1,0 +1,4 @@
+https://blog.bitscry.com/2019/02/13/using-azure-key-vault-in-a-console-application/
+
+
+https://www.codeproject.com/Tips/1430794/Using-Csharp-NET-to-Read-and-Write-from-Azure-Key
